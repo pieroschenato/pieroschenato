@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me fb = Piero Faggionato Schenato
-- ⚡ Fun fact: my left leg is 1 cm shorter than the other
+- ⚡ Fun fact: 
 
 <!---
 pieroschenato/pieroschenato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
